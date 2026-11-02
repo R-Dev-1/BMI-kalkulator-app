@@ -13,4 +13,4 @@ Aplikasi ini menerima input berat badan (kg) dan tinggi badan (cm) pengguna, lal
     *   **Klik kanan** pada nama proyek di panel *Projects* sebelah kiri.
     *   Pilih **Clean and Build**.
   
-3.  **Jalankan (Run):**
+3.  **Run**
